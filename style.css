@@ -1,0 +1,21 @@
+body {
+	max-width: 1800px;
+	text-align: center;
+	background-color: gray;
+}
+header {width: 960px;
+	border-color: gray;
+	background:lightgray;
+	height: 100px;
+	margin-top:6px;
+	border: solid 8px gray;
+	margin: auto;
+}
+nav{ width: 960px;
+	border-color: gray;
+	background:lightgray;
+	height: 100px;
+	margin-top:6px;
+	border: solid 8px gray;
+	margin: auto;
+}
